@@ -1,0 +1,13 @@
+@media (min-width: 535px) and (max-width: 824px){
+	[class*="col-"] {
+		width: 100%;
+	}
+	body{
+		background: black;
+		font-family: 'Lobster', cursive;
+		color: white;
+	}
+	img{
+		border: 6px solid white;
+	}
+}
